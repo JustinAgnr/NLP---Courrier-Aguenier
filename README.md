@@ -1,7 +1,12 @@
-# NLP - Courrier-Aguenier
+# NLP - Political tweet classification
+
+##  For the Machine Learning for Natural Language Processing 2022 course 
+
+### By Violaine Courrier & Justin Aguenier
 
 
-# Machine Learning for Natural Language Processing 2022 course 
+
+<img src="demo_rep.webp" alt="drawing" width="200"/>
 
 
 Colab instructions : 
