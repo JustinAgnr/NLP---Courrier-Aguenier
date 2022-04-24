@@ -1,4 +1,4 @@
-# NLP - Political tweet classification
+# NLP - Classificatin of US senator tweets
 
 ##  For the Machine Learning for Natural Language Processing 2022 course 
 
