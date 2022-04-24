@@ -11,7 +11,7 @@
 
 Colab instructions : 
 
-- To load the dataframes used for the project, you need to generate an ```API Token```. Please read the following page to do so : 
+- To load the dataframe, you need to generate a kaggle ```API Token```. Please read the following page to do so : 
 
 [Link for tutorial](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/)
 
